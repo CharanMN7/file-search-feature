@@ -1,6 +1,5 @@
 # File Search Feature
 
----
 This is a program I've written to solve a small problem I faced. I used to practice C programs that I've been taught in my class. I used to save them for revision, with a common name, changing only the number in the name.
 For example, prog1.c, prog2.c, prog3.c, etc. Like that.
 I always wrote a small description of the program in a comment.
